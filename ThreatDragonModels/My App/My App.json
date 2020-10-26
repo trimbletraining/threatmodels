@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "title": "My App",
+    "owner": "dj"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "contributor"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "email app",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "a_reviewer"
+  }
+}
